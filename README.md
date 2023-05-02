@@ -1,2 +1,2 @@
 # openpnp-capture-vfp
-Use openpnp-capture to capture images from cameras in  VFP
+Use openpnp-capture video capture library in VFP
